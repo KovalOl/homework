@@ -20,7 +20,7 @@ public class Animal {
     }
 
     public void makeNoise() {
-        System.out.println("Животное спит ");
+        System.out.println("Животное говорит ");
     }
 
     public void eat() {
